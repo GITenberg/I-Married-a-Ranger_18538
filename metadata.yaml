@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8095'
     url: http://www.gutenberg.org/2009/agents/8095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18538#I-Married-a-Ranger
 gutenberg_issued: '2006-06-08'
 gutenberg_type: Text
 identifiers:
