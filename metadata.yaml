@@ -1,0 +1,28 @@
+_repo: I-Married-a-Ranger_18538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Dama Margaret
+    alias: Smith, White Mountain, Mrs.
+    birthdate: 1892
+    deathdate: 1973
+    gutenberg_agent_id: '8095'
+    url: http://www.gutenberg.org/2009/agents/8095
+description: ''
+gutenberg_issued: '2006-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Indians of North America -- Arizona'
+- !lcsh 'Grand Canyon (Ariz.)'
+title: I Married a Ranger
+url: http://www.gutenberg.org/ebooks/18538
